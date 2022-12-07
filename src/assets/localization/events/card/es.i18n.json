@@ -1,2 +1,12 @@
 {
+  "text-one": "texto uno",
+  "card-image": {
+    "text-one": "texto uno",
+    "text-two": "texto dos",
+    "text-three": "texto tres"
+  },
+  "card-description": {
+    "text-one": "texto uno",
+    "text-two": "texto dos"
+  }
 }
