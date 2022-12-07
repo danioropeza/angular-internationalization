@@ -62,6 +62,7 @@ export class LocalizationModule {
         },
         { provide: NgbDateParserFormatter, useClass: LocaleNgbDateParserFormatter },
         { provide: NgbDatepickerI18n, useClass: LocaleNgbDatepicker },
+        LocaleDateService
       ]
     };
   }

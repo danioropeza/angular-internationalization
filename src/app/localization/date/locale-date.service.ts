@@ -1,11 +1,7 @@
-import { Injectable } from "@angular/core";
 import { NgbDate } from "@ng-bootstrap/ng-bootstrap";
 import { DateTime } from "luxon";
 import { LocaleDateFormatEnum } from "../enums/locale-date-format.enum";
 
-@Injectable({
-  providedIn: 'root',
-})
 export class LocaleDateService {
   private _dateFormat: string;
 
