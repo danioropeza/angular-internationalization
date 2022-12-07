@@ -1,0 +1,43 @@
+{
+  "document-title": "Internacionalização",
+  "title": "Seu aplicativo Angular está em execução!",
+  "your-language-is": "De acordo com a localidade do seu navegador, seu idioma é ",
+  "your-date-format-is": ", e seu formato de data é ",
+  "valid-date-texts": "Textos de data válidos: ",
+  "insert-date-here": "Insira um texto de data aqui",
+  "press-here": "Aperte aqui",
+  "fable-title": "OS DOIS GALOS",
+  "fable-paragraph-one": "Era uma vez uma fazenda onde muitos animais viviam juntos. Em particular, havia dois que se consideravam grandes amigos. Tratava-se de dois galos que desde filhotes se davam muito bem. Eles se revezavam cantando pela manhã, dividiam a tarefa de dirigir o curral e a relação era muito cordial.",
+  "fable-paragraph-two": "Aconteceu que um dia chegou uma nova galinha, tão linda e com um olhar tão penetrante, que os dois galos se apaixonaram à primeira vista. Todos os dias, os galos tentavam chamar sua atenção e a enchiam de detalhes. Se um deles o elogiava, o outro dava-lhe os melhores grãos de milho do cocho. Se alguém cantasse bem, seu oponente em seu amor tentava torná-lo mais alto para mostrar a ela o poder de sua voz.",
+  "fable-paragraph-three": "O que começou como um jogo acabou se tornando uma verdadeira rivalidade. Os galos começaram a se insultar e se ignorar quando a galinha estava perto deles. A amizade deles sofreu tanto que um dia decidiram que a única solução era organizar uma briga. Quem saísse vitorioso teria o direito de conquistar a linda galinha.",
+  "fable-paragraph-four": "Eles saíram para o jardim e se empurraram e se bicaram até que um deles ganhou a luta. Muito orgulhoso, ele subiu no telhado enquanto o outro foi embora chorando de dor e com um olho roxo. Ao invés de se comover com a tristeza do amigo, o vencedor, lá de cima, começou a cantar e gritar aos quatro ventos que era o mais forte do curral e que não havia rival que pudesse derrotá-lo. Ele gritou tanto que um urubu que andava por ali ouviu toda aquela besteira e, na velocidade da luz, lançou-se muito zangado sobre ele, derrubando-o com um golpe de sua asa gigante. O galo caiu ao chão muito ferido e com o orgulho no chão. Todos na fazenda riam dele e, a partir daquele dia, ele aprendeu a ser mais nobre e respeitoso com os outros.",
+  "fable-title-moral": "Moral: ",
+  "fable-paragraph-moral": "se alguma vez sairmos vitoriosos de qualquer situação, devemos ser humildes e modestos. Comportar-se de forma arrogante, acreditando que somos melhores que os outros, geralmente traz consequências ruins.",
+  "supported-languages": "Esta aplicação suporta os seguintes idiomas: en, es, it, fr e pt. Se você observar um comportamento interessante, pode ser porque",
+  "see-medium-article": "Veja a matéria completa no Medium",
+  "date-picker": {
+    "weekdays": {
+      "monday": "Seg",
+      "tuesday": "Ter",
+      "wednesday": "Qua",
+      "thursday": "Qui",
+      "friday": "Sex",
+      "saturday": "Sáb",
+      "sunday": "Dom"
+    },
+    "months": {
+      "january": "Jan",
+      "february": "Fev",
+      "march": "Mar",
+      "april": "Abr",
+      "may": "Maio",
+      "june": "Jun",
+      "july": "Jul",
+      "august": "Ago",
+      "september": "Set",
+      "october": "Out",
+      "november": "Nov",
+      "december": "Dez"
+    }
+  }
+}

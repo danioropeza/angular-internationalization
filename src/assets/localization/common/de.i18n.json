@@ -1,0 +1,43 @@
+{
+  "document-title": "Internationalisierung",
+  "title": "Ihre Angular-Anwendung läuft!",
+  "your-language-is": "Entsprechend dem Gebietsschema Ihres Browsers ist Ihre Sprache ",
+  "your-date-format-is": ", und Ihr Datumsformat ist ",
+  "valid-date-texts": "Gültige Datumstexte: ",
+  "insert-date-here": "Geben Sie hier einen Datumstext ein",
+  "press-here": "Hier drücken",
+  "fable-title": "DIE ZWEI HÄHNE",
+  "fable-paragraph-one": "Es war einst ein Bauernhof, auf dem viele Tiere zusammenlebten. Insbesondere gab es zwei, die sich als gute Freunde betrachteten. Es ging um zwei Hähne, die sich sehr gut verstanden, seit sie Küken waren. Sie sangen abwechselnd morgens, sie teilten sich die Aufgabe, den Pferch zu führen, und ihr Verhältnis war sehr herzlich.",
+  "fable-paragraph-two": "Es geschah, dass eines Tages eine neue Henne ankam, so schön und mit einem so durchdringenden Blick, dass sich die beiden Hähne auf den ersten Blick verliebten. Jeden Tag versuchten die Hähne, ihre Aufmerksamkeit zu erregen und überhäuften sie mit Details. Wenn einer von ihnen ihm ein Kompliment machte, gab ihm der andere die besten Maiskörner aus dem Trog. Wenn man gut sang, versuchte ihr Gegenüber in ihrer Liebe, es lauter zu machen, um ihr die Macht ihrer Stimme zu zeigen.",
+  "fable-paragraph-three": "Was als Spiel begann, entwickelte sich zu einer echten Rivalität. Die Hähne begannen sich gegenseitig zu beleidigen und zu ignorieren, als die Henne in ihrer Nähe war. Ihre Freundschaft litt so sehr, dass sie eines Tages beschlossen, dass die einzige Lösung darin bestand, einen Kampf zu organisieren. Wer als Sieger hervorging, hatte das Recht, die hübsche kleine Henne zu erobern.",
+  "fable-paragraph-four": "Sie gingen in den Garten hinaus und schubsten und pickten sich gegenseitig, bis einer von ihnen den Kampf gewann. Sehr stolz kletterte er auf das Dach, während der andere weinend vor Trauer und mit einem blauen Auge davonging. Anstatt von der Traurigkeit seines Freundes gerührt zu sein, begann der Sieger von dort oben zu singen und in die vier Winde zu schreien, dass er der Stärkste im Korral sei und dass es keinen Rivalen gebe, der ihn besiegen könne. Er schrie so sehr, dass ein Geier, der herumlief, all diesen Unsinn hörte und sich blitzschnell sehr wütend auf ihn stürzte und ihn mit einem Schlag mit seinem riesigen Flügel niederschlug. Der Hahn fiel schwer verletzt und mit seinem Stolz zu Boden. Alle auf der Farm lachten ihn aus und von diesem Tag an lernte er, edler und respektvoller mit anderen umzugehen.",
+  "fable-title-moral": "Moral: ",
+  "fable-paragraph-moral": "wenn wir jemals aus irgendeiner Situation als Sieger hervorgehen, müssen wir demütig und bescheiden sein. Sich arrogant zu verhalten und zu glauben, besser zu sein als andere, hat normalerweise schlechte Folgen.",
+  "supported-languages": "Diese Anwendung unterstützt die folgenden Sprachen: en, es, it, fr und pt. Wenn Sie ein interessantes Verhalten sehen, kann es daran liegen",
+  "see-medium-article": "Siehe den vollständigen Artikel in Medium",
+  "date-picker": {
+    "weekdays": {
+      "monday": "Mo",
+      "tuesday": "Di",
+      "wednesday": "Mi",
+      "thursday": "Do",
+      "friday": "Fr",
+      "saturday": "Sa",
+      "sunday": "So"
+    },
+    "months": {
+      "january": "Jan",
+      "february": "Feb",
+      "march": "Mär",
+      "april": "Apr",
+      "may": "Mai",
+      "june": "Jun",
+      "july": "Jul",
+      "august": "Aug",
+      "september": "Sep",
+      "october": "Okt",
+      "november": "Nov",
+      "december": "Dez"
+    }
+  }
+}

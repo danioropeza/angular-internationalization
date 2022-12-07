@@ -1,0 +1,43 @@
+{
+  "document-title": "Internationalization",
+  "title": "Your Angular Application is Running!",
+  "your-language-is": "According to your browser's locale, you language is ",
+  "your-date-format-is": ", and your date format is ",
+  "valid-date-texts": "Valid date texts: ",
+  "insert-date-here": "Insert a date text here",
+  "press-here": "Press here",
+  "fable-title": "THE TWO ROOSTERS",
+  "fable-paragraph-one": "It was once a farm where many animals lived together. In particular, there were two who considered themselves great friends. It was about two roosters that since they were chicks got along very well. They took turns singing in the morning, they shared the task of running the corral, and their relationship was very cordial.",
+  "fable-paragraph-two": "It happened that one day a new hen arrived, so beautiful and with such a penetrating gaze, that the two roosters fell in love at first sight. Every day, the roosters tried to get her attention and showered her with details. If one of them complimented him, the other gave him the best grains of corn from the trough. If one sang well, her opponent in her love tried to make it louder to show her the power of her voice.",
+  "fable-paragraph-three": "What started as a game ended up becoming a real rivalry. The roosters began to insult and ignore each other when the hen was near them. Their friendship suffered so much that one day they decided that the only solution was to organize a fight. Whoever emerged victorious would have the right to conquer the pretty little hen.",
+  "fable-paragraph-four": "They went out into the garden and shoved and pecked at each other until one of them won the fight. Very proud, he climbed onto the roof while the other walked away crying with grief and with a black eye. Instead of being moved by the sadness of his friend, the winner, from up there, began to sing and shout to the four winds that he was the strongest in the corral and that there was no rival that could defeat him. He yelled so much that a vulture that was walking around heard all this nonsense and, at lightning speed, launched itself very angry at him, knocking him down with a blow with his giant wing. The rooster fell to the ground badly injured and with his pride on the ground. Everyone on the farm laughed at him, and from that day on, he learned to be more noble and respectful of others.",
+  "fable-title-moral": "Moral: ",
+  "fable-paragraph-moral": "if we ever emerge victorious from any situation, we must be humble and modest. Behaving arrogantly, believing ourselves to be better than others, usually has bad consequences.",
+  "supported-languages": "This application support the next languages: en, es, it, fr and pt. If you see an interesting behavior, it may be because",
+  "see-medium-article": "See the complete articule in Medium",
+  "date-picker": {
+    "weekdays": {
+      "monday": "Mo",
+      "tuesday": "Tu",
+      "wednesday": "We",
+      "thursday": "Th",
+      "friday": "Fr",
+      "saturday": "Sa",
+      "sunday": "Su"
+    },
+    "months": {
+      "january": "Jan",
+      "february": "Feb",
+      "march": "Mar",
+      "april": "Apr",
+      "may": "May",
+      "june": "Jun",
+      "july": "Jul",
+      "august": "Aug",
+      "september": "Sep",
+      "october": "Oct",
+      "november": "Nov",
+      "december": "Dec"
+    }
+  }
+}

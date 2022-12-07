@@ -1,0 +1,43 @@
+{
+  "document-title": "Internationalisation",
+  "title": "Votre application angulaire est en cours d'exécution !",
+  "your-language-is": "Selon les paramètres régionaux de votre navigateur, votre langue est ",
+  "your-date-format-is": ", et votre format de date est ",
+  "valid-date-texts": "Textes de date valides : ",
+  "insert-date-here": "Insérez un texte de date ici",
+  "press-here": "Cliquez ici",
+  "fable-title": "LES DEUX COQS",
+  "fable-paragraph-one": "C'était autrefois une ferme où de nombreux animaux vivaient ensemble. En particulier, il y en avait deux qui se considéraient comme de grands amis. Il s'agissait de deux coqs qui depuis qu'ils étaient poussins s'entendaient très bien. Ils chantaient à tour de rôle le matin, ils se partageaient la tâche de diriger le corral et leur relation était très cordiale.",
+  "fable-paragraph-two": "Il arriva qu'un jour une nouvelle poule arriva, si belle et avec un regard si pénétrant, que les deux coqs tombèrent amoureux au premier regard. Chaque jour, les coqs tentaient d'attirer son attention et la comblaient de détails. Si l'un d'eux le complimentait, l'autre lui donnait les meilleurs grains de maïs de l'auge. Si l'une chantait bien, son adversaire dans son amour essayait de le rendre plus fort pour lui montrer la puissance de sa voix.",
+  "fable-paragraph-three": "Ce qui a commencé comme un jeu a fini par devenir une véritable rivalité. Les coqs ont commencé à s'insulter et à s'ignorer quand la poule était près d'eux. Leur amitié a tellement souffert qu'un jour ils ont décidé que la seule solution était d'organiser un combat. Celui qui sortirait vainqueur aurait le droit de vaincre la jolie petite poule.",
+  "fable-paragraph-four": "Ils sortirent dans le jardin et se poussèrent et se picorèrent jusqu'à ce que l'un d'eux gagne le combat. Très fier, il monta sur le toit tandis que l'autre s'éloignait en pleurant de chagrin et avec un œil au beurre noir. Au lieu d'être ému par la tristesse de son ami, le vainqueur, de là-haut, se mit à chanter et à crier aux quatre vents qu'il était le plus fort du corral et qu'aucun rival ne pouvait le vaincre. Il a tellement crié qu'un vautour qui se promenait a entendu toutes ces bêtises et, à la vitesse de l'éclair, s'est lancé très en colère contre lui, le renversant d'un coup avec son aile géante. Le coq est tombé au sol grièvement blessé et avec sa fierté au sol. Tout le monde à la ferme s'est moqué de lui et à partir de ce jour, il a appris à être plus noble et respectueux des autres.",
+  "fable-title-moral": "Moral: ",
+  "fable-paragraph-moral": "si jamais nous sortons victorieux d'une situation, nous devons être humbles et modestes. Se comporter avec arrogance, croire que nous sommes meilleurs que les autres, a généralement de mauvaises conséquences.",
+  "supported-languages": "Cette application prend en charge les langues suivantes : en, es, it, fr et pt. Si vous voyez un comportement intéressant, c'est peut-être parce que",
+  "see-medium-article": "Voir l'article complet dans Medium",
+  "date-picker": {
+    "weekdays": {
+      "monday": "Lun.",
+      "tuesday": "Mar.",
+      "wednesday": "Mer.",
+      "thursday": "Jeu.",
+      "friday": "Ven.",
+      "saturday": "Sam.",
+      "sunday": "Dim."
+    },
+    "months": {
+      "january": "Janv.",
+      "february": "Févr.",
+      "march": "Mars",
+      "april": "Avr.",
+      "may": "Mai",
+      "june": "Juin",
+      "july": "Juill.",
+      "august": "Août",
+      "september": "Sept.",
+      "october": "Oct.",
+      "november": "Nov.",
+      "december": "Déc."
+    }
+  }
+}

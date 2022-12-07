@@ -1,0 +1,43 @@
+{
+  "document-title": "internacionalización",
+  "title": "¡Su aplicación Angular se está ejecutando!",
+  "your-language-is": "Según la configuración regional de su navegador, su idioma es ",
+  "your-date-format-is": ", y su formato de fecha es ",
+  "valid-date-texts": "Textos de fecha válidos: ",
+  "insert-date-here": "Inserte un texto de fecha aquí",
+  "press-here": "Presiona aquí",
+  "fable-title": "LOS DOS GALLOS",
+  "fable-paragraph-one": "Era una vez una granja en la que convivían muchos animales. En particular, había dos que se consideraban grandes amigos. Se trataba de dos gallos que desde que eran polluelos se llevaban muy bien. Se turnaban para cantar por las mañanas, compartían la tarea de dirigir el corral y su relación era muy cordial.",
+  "fable-paragraph-two": "Sucedió que un día llegó una gallina nueva, tan hermosa y de mirada tan penetrante, que enamoró a los dos gallos a primera vista. Cada día, los gallos intentaban llamar su atención y la colmaban de detalles. Si uno le lanzaba un piropo, el otro le regalaba los mejores granos de maíz del comedero. Si uno cantaba bien, su contrincante en el amor intentaba hacerlo más alto para demostrarle la potencia de su voz.",
+  "fable-paragraph-three": "Lo que empezó como un juego acabó convirtiéndose en una auténtica rivalidad. Los gallos empezaron a insultarse y a ignorarse cuando la gallina estaba cerca de ellos. Su amistad se resintió tanto, que un día decidieron que la única solución era organizar una pelea. Quien se alzara vencedor, tendría el derecho de conquistar a la linda gallinita.",
+  "fable-paragraph-four": "Salieron al jardín y se liaron a empujones y picotazos hasta que uno de ellos ganó la contienda. Muy ufano, se subió al tejado mientras el otro se alejaba llorando de pena y con un ojo morado. En vez de conmoverse por la tristeza de su amigo, el ganador, desde allí arriba, comenzó a cantar y a vociferar a los cuatro vientos que era el más fuerte del corral y que no había rival que pudiera derrotarle. Tanto gritó, que un buitre que andaba por allí oyó todas esas tonterías y, a la velocidad del rayo, se lanzó muy enfadado sobre él, derribándole de un golpe con su ala gigante. El gallo cayó al suelo malherido y con su orgullo por los suelos. Todos en la granja se rieron de él y, a partir de ese día, aprendió a ser más noble y respetuoso con los demás.",
+  "fable-title-moral": "Moraleja: ",
+  "fable-paragraph-moral": "si alguna vez salimos triunfadores de alguna situación, debemos ser humildes y modestos. Comportarnos de manera soberbia, creyéndonos mejores que los demás, suele tener malas consecuencias.",
+  "supported-languages": "Esta aplicación admite los siguientes idiomas: en, es, it, fr y pt. Si observa un comportamiento interesante, puede deberse a que",
+  "see-medium-article": "Ver el artículo completo en Medium",
+  "date-picker": {
+    "weekdays": {
+      "monday": "Lu",
+      "tuesday": "Ma",
+      "wednesday": "Mi",
+      "thursday": "Ju",
+      "friday": "Vi",
+      "saturday": "Sá",
+      "sunday": "Do"
+    },
+    "months": {
+      "january": "Ene",
+      "february": "Feb",
+      "march": "Mar",
+      "april": "Abr",
+      "may": "May",
+      "june": "Jun",
+      "july": "Jul",
+      "august": "Ago",
+      "september": "Sep",
+      "october": "Oct",
+      "november": "Nov",
+      "december": "Dic"
+    }
+  }
+}
