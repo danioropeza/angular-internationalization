@@ -1,27 +1,9 @@
-# AngularInternationalization
+# Angular Internationalization with I18Next and Luxon
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
+![image](https://user-images.githubusercontent.com/33135078/206231755-0f66f749-e5c8-411e-8dfb-fa258bc8c988.png)
 
-## Development server
+In this repository, you will see a demo Angular application with localization. It locales in 5 languages: en, es, de, fr, pt. The text of the application is localized according to the language of your browser. Date formats are also localized, as well as formatting and parsing in the ng-bootstrap Datepicker. The days and months of the ng-bootstrap Datapicker are also localized.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+You can download the code or also try it on StackBlitz.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+See the full article on Medium [Angular Internationalization with I18Next and Luxon](https://medium.com/@danioropezasoria/angular-internationalization-with-i18next-and-luxon-f461d8d4fedb).
