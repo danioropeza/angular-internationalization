@@ -9,6 +9,6 @@ Analyze the code while reading the full article on Medium [Angular International
 ### Install demo app
 
 Execute the following commands on the bash:
-1) npm install
-2) npm run start or ng serve
+1) `npm install`
+2) `npm run start` or `ng serve`
 3) Watch http://localhost:4200/
