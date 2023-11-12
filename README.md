@@ -6,6 +6,16 @@ In this repository, you will see a demo Angular application with localization. I
 
 Analyze the code while reading the full article on Medium [Angular Internationalization with I18Next and Luxon](https://medium.com/@danioropezasoria/angular-internationalization-with-i18next-and-luxon-f461d8d4fedb).
 
+### Dependencies and versions ###
+
+- Angular: 17.0.2
+- Angular CLI: 17.0.0
+- Node: 20.9.0
+- npm: 10.1.0
+- bootstrap: 5.3.2
+- @ng-bootstrap/ng-bootstrap: 16.0.0-rc.0
+
+
 ### Install demo app
 
 Execute the following commands on the bash:
